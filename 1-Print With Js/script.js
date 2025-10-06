@@ -1,3 +1,33 @@
+// ================================
+          //! Day 1: Introduction to JavaScript
+// ================================
+
+//  What is JavaScript?
+// JavaScript is a lightweight, interpreted programming language
+// used to make web pages interactive.
+
+//  How to run JS?
+// - In browser console
+// - By linking .js file in an HTML page
+// - Using Node.js in terminal
+
+//  Printing output
+console.log("Hello, JavaScript!");
+
+//  Variables in JS
+// (We'll learn deeply in Day 2)
+let message = "Welcome to JS learning!";
+console.log(message);
+
+//  Comments
+// Single-line comment starts with //
+// Multi-line comment:
+
+/*
+ This is
+ multi-line comment
+*/
+
 // console.log("Warish");
 // console.warn("Warish");
 // console.error("Warish");
