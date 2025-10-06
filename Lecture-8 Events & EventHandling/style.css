@@ -1,0 +1,13 @@
+.box{
+    height: 300px;
+    width: 300px;
+    background-color: rebeccapurple;
+}
+.light{
+    background-color: rgb(252, 252, 252);
+    color: rgb(0, 0, 0);
+}
+.dark{
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}

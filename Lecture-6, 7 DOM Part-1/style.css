@@ -1,0 +1,17 @@
+#select{
+    color: rebeccapurple;
+    background-color: aqua;
+    font-size: 80px;
+}
+.box{
+    color: red;
+    background-color: yellow;
+    font-size: 60px;
+}
+
+.para{
+    color: red;
+}
+.newClass{
+    background-color: green;
+}

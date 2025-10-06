@@ -40,34 +40,3 @@
 // bill = unit * 5;
 // };
 // console.log(bill);
-
-//! Ternary Operator
-
-// let a = 10;
-// let b = 12;
-//  a>b? console.log("hello"):console.log("not hello");
- // ye check krta hai a>b? a, b se bda hai ya nhi agar condition true huyi to left side wala print krega false hui to right side print krega
-//  a>b? (left side) : (right side);
-
-//! Strings
-// let str = `Hey, my age is ${20 + 1}`; using template literals...
-
-// String split
-
-// let str = "Hello, my name is Arpit";
-// let ans = str.split("e");
-// let ans = str.split(" ");
-// console.log(str.split(","));
-
-//! loops 
-// for(let i = 10; i < 25; i++){
-//     if(i === 21) continue; 
-//     console.log(i);
-// }
-// ye 21 ko skip krega
-// continue aur break ka ye hi kaam hota hai ki ye loop ko skip ya break karke next iteration pe le jata hai 
-// for(let i = 10; i < 25; i++){
-//     console.log(i);
-//     if(i === 21) break; 
-// }
-// ye 21 pe aa k loop ko break krega
