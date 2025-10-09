@@ -1,4 +1,4 @@
-//! Loops 
+                       //! Loops 
 
 //* For Loop
 // for (let i = 1; i<=8; i++){
@@ -131,10 +131,3 @@ let str2 = 'College';
 // console.log(str1.charAt(3));
 
 
-                          //! Praction question String
-
-//* Prompt the user to enter their full name. Genarate a username for them based on the input. Start username with @, followed by their full name and ending with the full name length.                       
-
-    //  let fullName = prompt("Enter your fullName without spaces:");
-    //  let userName = "@" + fullName + fullName.length;
-    //  console.log(userName);     
