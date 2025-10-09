@@ -22,7 +22,7 @@
 
 
  
-                    //! Looping over Array
+                    //! Looping over Arrays
 
                     // let heroes = ["ironman", "antman", "superman", 22, 223, 443, 56, 1, 2, 3, 4, 5, 6, 7,8, 9, 45, 56 ];
                     
